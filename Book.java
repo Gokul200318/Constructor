@@ -11,6 +11,7 @@ public class Book {
 
         this.title = title;
         this.author = author;
+        this.price = 50;
     }
     public Book(String title, String author, int price){
         this.title = title;
